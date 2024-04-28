@@ -19,5 +19,6 @@
 
 ### Анализ проведен на Python 
 ### Для работы над проектом были использованы библиотеки:
+**pandas, seaborn, matplotlib.pyplot, scipy.stats, pingouin, numpy, lifelines**
 
 ### Выводы в файле A_B_3_test.ipynb
